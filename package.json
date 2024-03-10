@@ -1,5 +1,20 @@
 {
-  "name": "kico-ui",
+  "name": "kico-ui-latest",
+  "keywords": [
+    "react",
+    "next",
+    "next.js",
+    "kio-ui",
+    "design elements"
+  ],
+  "description": "Kico ui provides pre-designed components.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rushi-mungse/kico-ui-latest.git",
+    "directory": "./"
+  },
+  "author": "Rushikesh Mungse",
+  "license": "MIT",
   "private": false,
   "version": "0.0.1",
   "type": "module",
