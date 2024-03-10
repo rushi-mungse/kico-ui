@@ -16,9 +16,10 @@
   "author": "Rushikesh Mungse",
   "license": "MIT",
   "private": false,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
-  "main": "dist/kico-ui.umd.cjs",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "files": [
     "/dist"
